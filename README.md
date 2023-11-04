@@ -1,2 +1,3 @@
-Eternal circle - form is independent of content
-Details later
+# Eternal circle - form is independent of content
+
+* Details later
